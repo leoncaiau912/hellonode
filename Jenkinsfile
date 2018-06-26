@@ -1,4 +1,4 @@
-node (label: 'node1') {
+node (label: 'jenkins-slave-aws') {
     def app
 
     stage('Clone repository') {
